@@ -13,6 +13,7 @@
 		DD3595E22180FBDC00F8EE40 /* ToDo_Appp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = DD3595E02180FBDC00F8EE40 /* ToDo_Appp.xcdatamodeld */; };
 		DD3595E42180FBDF00F8EE40 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD3595E32180FBDF00F8EE40 /* Assets.xcassets */; };
 		DD3595E72180FBDF00F8EE40 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD3595E52180FBDF00F8EE40 /* LaunchScreen.storyboard */; };
+		DD3595EF218100D400F8EE40 /* AddTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD3595EE218100D400F8EE40 /* AddTaskViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DD3595E32180FBDF00F8EE40 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DD3595E62180FBDF00F8EE40 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DD3595E82180FBDF00F8EE40 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DD3595EE218100D400F8EE40 /* AddTaskViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTaskViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				DD3595D92180FBDB00F8EE40 /* AppDelegate.swift */,
 				DD3595DB2180FBDB00F8EE40 /* ViewController.swift */,
 				DD3595DD2180FBDB00F8EE40 /* Main.storyboard */,
+				DD3595EE218100D400F8EE40 /* AddTaskViewController.swift */,
 				DD3595E32180FBDF00F8EE40 /* Assets.xcassets */,
 				DD3595E52180FBDF00F8EE40 /* LaunchScreen.storyboard */,
 				DD3595E82180FBDF00F8EE40 /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DD3595DC2180FBDB00F8EE40 /* ViewController.swift in Sources */,
+				DD3595EF218100D400F8EE40 /* AddTaskViewController.swift in Sources */,
 				DD3595DA2180FBDB00F8EE40 /* AppDelegate.swift in Sources */,
 				DD3595E22180FBDC00F8EE40 /* ToDo_Appp.xcdatamodeld in Sources */,
 			);
